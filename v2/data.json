@@ -1,0 +1,59 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "宇航の鸽子窝",
+      "url": "https://blog.sheepyuhang.top",
+      "icon": "https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/resources/images/avator_transparentbg.png",
+      "snapshot": "",
+      "description": "不知道，不清楚，不在乎。",
+      "feed": "https://blog.sheepyuhang.top/rss.xml",
+      "posts": [
+        {
+          "title": "无人深空中字英配 Mod 制作",
+          "link": "https://blog.sheepyuhang.top/post/nms_audio/",
+          "published": "2026-04-16 03:56"
+        },
+        {
+          "title": "基于单域名 + CF SaaS 的 CF CDN 优选",
+          "link": "https://blog.sheepyuhang.top/post/blog/cf-redirect/",
+          "published": "2026-04-10 13:54"
+        },
+        {
+          "title": "新增了修订历史",
+          "link": "https://blog.sheepyuhang.top/post/blog/commit-history/",
+          "published": "2026-04-08 05:59"
+        }
+      ],
+      "issue_number": 3,
+      "labels": []
+    },
+    {
+      "title": "UTCLC",
+      "url": "https://chs.utclc.top",
+      "icon": "https://cdn.jsdmirror.com/gh/UTCLC/utclc.github.io/source/images/Logo.png",
+      "snapshot": "",
+      "description": "UNDERTALE 中文本地化社区",
+      "feed": "https://chs.utclc.top/atom.xml",
+      "posts": [
+        {
+          "title": "UT 十周年庆特辑网页小游戏简中本地化",
+          "link": "https://chs.utclc.top/announcement/ut10/",
+          "published": "2025-09-26 23:57"
+        },
+        {
+          "title": "欢迎【回音花汉化组】正式加入 UNDERTALE 中文本地化社区！🎉",
+          "link": "https://chs.utclc.top/announcement/new_groups/hyh/",
+          "published": "2025-08-02 22:03"
+        },
+        {
+          "title": "​UNDERTALE 中文本地化社区官网现已上线（实验性）",
+          "link": "https://chs.utclc.top/announcement/website/",
+          "published": "2025-07-30 17:02"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    }
+  ]
+}
