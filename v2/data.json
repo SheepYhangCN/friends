@@ -1,0 +1,59 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "宇航の鸽子窝",
+      "url": "https://blog.sheepyuhang.top",
+      "icon": "https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/avator_transparentbg.png",
+      "snapshot": "",
+      "description": "不知道，不清楚，不在乎。",
+      "feed": "https://blog.sheepyuhang.top/rss.xml",
+      "posts": [
+        {
+          "title": "edu 邮箱与教育优惠",
+          "link": "https://blog.sheepyuhang.top/post/edu-mail/",
+          "published": "2026-08-31 20:21"
+        },
+        {
+          "title": "修复 Visual Studio 安装遇到的 1603 (1714/1402) 错误",
+          "link": "https://blog.sheepyuhang.top/post/vs1603/",
+          "published": "2026-07-19 23:53"
+        },
+        {
+          "title": "持续拷问用户的 Skill：grill-me",
+          "link": "https://blog.sheepyuhang.top/post/grill-me/",
+          "published": "2026-07-14 18:10"
+        }
+      ],
+      "issue_number": 3,
+      "labels": []
+    },
+    {
+      "title": "UTCLC",
+      "url": "https://chs.utclc.top",
+      "icon": "https://cdn.jsdmirror.com/gh/UTCLC/utclc.github.io/source/images/Logo.png",
+      "snapshot": "",
+      "description": "UNDERTALE 中文本地化社区",
+      "feed": "https://chs.utclc.top/atom.xml",
+      "posts": [
+        {
+          "title": "UT 十周年庆特辑网页小游戏简中本地化",
+          "link": "https://chs.utclc.top/announcement/ut10/",
+          "published": "2025-09-26 23:57"
+        },
+        {
+          "title": "欢迎【回音花汉化组】正式加入 UNDERTALE 中文本地化社区！🎉",
+          "link": "https://chs.utclc.top/announcement/new_groups/hyh/",
+          "published": "2025-08-02 22:03"
+        },
+        {
+          "title": "​UNDERTALE 中文本地化社区官网现已上线（实验性）",
+          "link": "https://chs.utclc.top/announcement/website/",
+          "published": "2025-07-30 17:02"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    }
+  ]
+}
